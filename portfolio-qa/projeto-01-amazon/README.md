@@ -56,6 +56,8 @@ After login, a generic error page was displayed. Upon refreshing the page, the s
 
 This observation highlights session handling behavior and business rule validation in a real production environment.
 
+This behavior was documented both as a Bug Report and as a Test Observation, demonstrating analytical thinking beyond pass/fail testing.
+
 📸 Supporting evidence is available in the \`/evidence\` folder.
 
 \---
@@ -104,7 +106,7 @@ amazon-ecommerce-qa-portfolio/
 │   └── test-report-amazon-pt.md  
 │  
 ├── bug-reports/  
-│   └── bug-report-br-amz-chk-001.md  
+│   └── bug-report-amz-chk-001.md  
 │  
 ├── test-observations/  
 │   └── test-observation-amz-001.md  
